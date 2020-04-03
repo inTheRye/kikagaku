@@ -1,0 +1,5 @@
+*content/
+*data/
+*lightning_logs/
+*.ipynb_checkpoints/
+.DS_Store
